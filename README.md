@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a computer engineer with an interest in sharing knowledge to help other developers get the most out of their tools.
+
+I've spent 5 years working on open source JVM and compiler projects. These days I've pivoted to try my hand at developer relations. I talk about how Java engineers can use their JDK to write more secure code.
+
+When I'm not working on open source, you'll find me spending time with my latest foster dog or cat, helping my local Toastmasters club members achieve their leadership & public speaking goals as the VP of Education. I also love spending as much time as I can in the great outdoors.
